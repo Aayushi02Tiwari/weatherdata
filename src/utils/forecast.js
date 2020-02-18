@@ -21,8 +21,7 @@ const forecast = (latitude, longitude, callback) => {
 
 }
 module.exports = forecast
-//sgjdsfjd
+// this is a new command
 // if(error){
 //     return console.log(error)
 // }
-// This is comment
